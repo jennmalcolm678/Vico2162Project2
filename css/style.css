@@ -1,0 +1,19 @@
+body {
+    margin: 0px;
+}
+
+h1 {
+    border-bottom-style: none;
+    border-bottom-width: 10px;
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+    color: #ff8da1;
+}
+
+
+
+p {
+    font-family: serif;
+}
+
+
